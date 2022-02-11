@@ -3,35 +3,20 @@
 <h1 align="center">ToDo App</h1>
 
 
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-     | 
-    <a href="https://{your-url-to-the-solution}">
-      Project
-    </a>
- 
-  </h3>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
 - [Overview](#overview)
-- [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](/Screen Shot 2022-02-11 at 3.15.16 PM.png)
 
 ### Built With
 
