@@ -16,7 +16,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/gurolbilgin/heroku_django_todoapp/solarized-yinyang.pngScreen Shot 2022-02-11 at 3.15.16 PM.png)
+![screenshot](https://github.com/gurolbilgin/heroku_django_todoapp/raw/master/solarized-yinyang.pngScreen Shot 2022-02-11 at 3.15.16 PM.png)
 
 ### Built With
 
