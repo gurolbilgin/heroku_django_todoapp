@@ -7,16 +7,12 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
-## Overview
-
-![screenshot](https://github.com/gurolbilgin/heroku_django_todoapp/ScreenShot.png)
 
 ### Built With
 
