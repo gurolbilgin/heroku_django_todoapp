@@ -68,7 +68,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 ## Contact
 
-- GitHub [gurolbilgin](https://{github.com/gurolbilgin})
+- GitHub [gurolbilgin](https://github.com/gurolbilgin)
 
-- Linkedin [gurolbilgin](https://{linkedin.com/gurolbilgin})
+- Linkedin [gurolbilgin](https://linkedin.com/gurolbilgin)
 
